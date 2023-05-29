@@ -1,0 +1,81 @@
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmMain.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojAssemblyReference.cache
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmLogin.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmDoctor.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmNurse.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmReceptionist.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Dashboard.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Doctor.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Nurse.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Patient.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Room.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_User.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAccountant.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmPharmacist.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Billing.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Pharmacy.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlRoom.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlUser.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlMedicine.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Pharmacist.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Medicine.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlConAd.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Bill.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Accountant.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlPatient.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_PatientView.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlAppointment.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Admitted.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlAdmitted.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmProfile.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmDoctor_Prescription.resources
+C:\Users\Brix\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmDoctor_Patient.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojAssemblyReference.cache
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlAdmitted.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlAppointment.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlConAd.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlMedicine.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlPatient.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlRoom.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.dlUser.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAccountant.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmDoctor_Prescription.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmProfile.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmDoctor_Patient.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmDoctor.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Bill.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Billing.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Dashboard.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Accountant.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Admitted.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_PatientView.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Pharmacist.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Doctor.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Nurse.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Patient.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Medicine.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Pharmacy.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_Room.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdmin_User.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmLogin.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmMain.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmNurse.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmPharmacist.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmReceptionist.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+E:\Projects\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
